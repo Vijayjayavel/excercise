@@ -1,4 +1,4 @@
-# to print permutation of all the elements of a list
+# to print combination of all the elements of a list
 
 def combination(list):
     result=[]
@@ -10,5 +10,3 @@ def combination(list):
             result.append(ele)
     return result
 print(combination(['1','2','3','4','gowtham']))
-
-import itertools

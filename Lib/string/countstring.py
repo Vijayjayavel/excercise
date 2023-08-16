@@ -20,5 +20,6 @@ print(count('a'))
 
 res={key:x.count(key) for key in list}
 
+
 print(res)
 

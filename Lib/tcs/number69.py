@@ -1,4 +1,4 @@
-# to fin a number's square and cube lements have number 0-9
+# to find a number's square and cube lements have number 0-9
 
 x=[0,1,2,3,4,5,6,7,8,9]
 i=0
@@ -20,9 +20,6 @@ while Flag:
         cnt1+=1
         if(cnt1==10):
             Flag=0
-
-
-
 
 
 

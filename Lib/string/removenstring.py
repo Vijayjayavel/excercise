@@ -7,3 +7,4 @@ for i in range(len(a)):
     if i!=b-1:
         newstr=newstr+a[i]
 print(newstr)
+# print(a[:b-1]+a[b:]) simple solution

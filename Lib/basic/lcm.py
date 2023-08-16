@@ -29,3 +29,15 @@ while True:
             print(i)
     i+=1'''
 
+# def lcm(a,b):
+#     if a>b:
+#         c=a
+#     else:
+#         c=b
+#     while True:
+#         if c%a==0 and c%b==0:
+#             return c
+#         else:
+#             c+=1
+#
+# print(lcm(4,6))

@@ -22,4 +22,3 @@ output=[['abc','bac'],['sea','sae'],['ant','nat','tan']]
 #             a[sorted_word]=[word]
 #     return list(a.values())
 # print(ana(input))
-

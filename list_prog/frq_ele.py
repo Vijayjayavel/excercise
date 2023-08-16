@@ -10,3 +10,5 @@ def frq(list):
 
     return dic
 print((frq([1,2,3,4,4,4,2,2,3])))
+
+# print({key:[1,2,3,4,4,4,2,2,3].count(key) for key in [1,2,3,4,4,4,2,2,3]})
